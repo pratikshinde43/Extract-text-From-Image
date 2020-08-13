@@ -1,2 +1,2 @@
-# Extract-text-From-Image
-It extract the Text from an image
+# Extract-text-From-Image-Using-AI
+It extract the Text from an image using Tesseract
